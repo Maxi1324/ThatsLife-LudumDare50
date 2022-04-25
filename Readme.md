@@ -42,6 +42,7 @@ There are two mayor bugs.
 - At the Poles of the Planet you are dragged to them. Unfortunately there is a tree. So the game forces you to dive into the tree. You are a able to compensate, but it's still annoying. 
 
 - The Explosion particles are to big. They compromise your view.
+
 ![""](ReadmeImages/Explosion.png)
 
 - Sometimes the Car starts to fly away. This happens very very rarely.
