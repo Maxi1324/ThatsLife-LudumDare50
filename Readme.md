@@ -43,3 +43,21 @@ There are two mayor bugs.
 
 - The Explosion particles are to big. They compromise your view.
 ![""](ReadmeImages/Explosion.png)
+
+- Sometimes the Car starts to fly away. This happens very very rarely.
+
+Due to the fact, that this was a Game Jam Game, I don't want to fix them, because thats the result of my work after 48 hours.
+
+## Learnings
+
+I learned a big lesson. Sometimes, if it takes to long to fix a Bug, you have to hide it. The Bug with the dragging to the poles could have been hidden by making it visually visible. By placing a black hole or something there.
+
+## External Tools
+
+- Unity
+- Audacity
+- Bosca Ceoil
+- Blender
+- Krita
+- Visual Studio Code
+- Visual Studio
